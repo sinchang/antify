@@ -1,0 +1,15 @@
+{
+  "name": "antify",
+  "version": "1.0.0",
+  "description": "A component library based on the ant design",
+  "main": "index.js",
+  "repository": "https://github.com/sinchang/antify.git",
+  "author": "sinchang <sinchangwen@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  },
+  "dependencies": {
+    "@stitches/react": "^0.0.2"
+  }
+}
